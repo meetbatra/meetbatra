@@ -22,11 +22,14 @@
 **Frontend:**  
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css) ![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 
+**State Management:**  
+![Zustand](https://img.shields.io/badge/-Zustand-black?style=flat-square&logo=zustand&logoColor=white)
+
 **Backend & Database:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 **DevOps / Tools:**  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code) ![Render](https://img.shields.io/badge/-Render-black?style=flat-square&logo=render) ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code) ![Render](https://img.shields.io/badge/-Render-black?style=flat-square&logo=render) ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
 
 ---
 
