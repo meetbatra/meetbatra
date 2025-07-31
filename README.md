@@ -17,16 +17,16 @@
 ### 🚀 Tech Stack
 
 **Languages:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 
 **Frontend:**  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38b2ac?style=flat-square&logo=tailwind-css) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css) ![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) ![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 
 **Backend & Database:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 **DevOps / Tools:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code) ![Render](https://img.shields.io/badge/-Render-black?style=flat-square&logo=render) ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 
 ---
 
