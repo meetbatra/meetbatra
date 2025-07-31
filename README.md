@@ -29,7 +29,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 **DevOps / Tools:**  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code) ![Render](https://img.shields.io/badge/-Render-black?style=flat-square&logo=render) ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code) ![Render](https://img.shields.io/badge/-Render-black?style=flat-square&logo=render) ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel) ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 
 ---
 
@@ -61,7 +61,7 @@
 
 ### 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meet-batra-25612b260)  
-[![Gmail](https://img.shields.io/badge/-meetbatra56@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:meetbatra56@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meet-batra-25612b260)  
+[![Gmail](https://img.shields.io/badge/-meetbatra56@gmail.com-black?style=flat-square&logo=gmail&logoColor=white)](mailto:meetbatra56@gmail.com)
 
 ---
