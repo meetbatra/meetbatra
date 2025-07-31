@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meet Batra</h1>
-<h3 align="center">Full-stack Developer | MERN Enthusiast | Open Source Contributor</h3>
+<h3 align="center">Full-stack Developer | MERN Enthusiast | Clean API Crafter</h3>
 
 ---
 
