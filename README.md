@@ -8,7 +8,7 @@
 - 🎓 B.Tech ECE @ Bhagwan Parshuram Institute of Technology  
 - 📚 BS in Data Science @ IIT Madras  
 - 🛠️ I love building web apps, solving real-world problems, and optimizing backend systems.  
-- 🌐 Passionate about cloud deployment, database design, and clean UI/UX.  
+- 🎯 Interested in full-stack development, system design, and performance tuning.
 - 📫 Reach me at: **meetbatra56@gmail.com**  
 - 🌍 Portfolio: [https://github.com/meetbatra](https://github.com/meetbatra)  
 
