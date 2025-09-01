@@ -35,6 +35,10 @@
 
 ### 📌 Featured Projects
 
+#### 🎯 [Interview Buddy](https://github.com/meetbatra/interview-buddy)  
+> An AI-powered interview preparation platform that simulates realistic job interviews using Google Gemini AI, Deepgram speech recognition, and Murf TTS. Features resume analysis, personalized questions, real-time transcription, and comprehensive performance analytics.
+> > 🔗 Live Demo: [interviewbuddy-seven.vercel.app](https://interviewbuddy-seven.vercel.app)
+
 #### 🌍 [ExploreHaven](https://github.com/meetbatra/ExploreHaven)  
 > A backend-heavy adventure travel platform built with Node.js, Express.js, and MongoDB to explore destinations and discover unique experiences.
 > > 🔗 Live Demo: [explorehaven.onrender.com](https://explorehaven.onrender.com)
@@ -42,10 +46,6 @@
 #### 🌦️ [WeatherNow](https://github.com/meetbatra/WeatherNow)  
 > A sleek weather app that fetches real-time data using the OpenWeatherMap API. Built with React + Vite and deployed on Vercel.
 > > 🔗 Live Demo: [https://weather-now-lake.vercel.app](https://weather-now-lake.vercel.app)
-
-#### ✅ [Todos](https://github.com/meetbatra/Todos)  
-> A user-authenticated todo list app built with Node.js, Express, and MongoDB Atlas. Features login/signup, persistent storage, and a clean Bootstrap-powered interface.  
-> > 🔗 Live Demo: [todos-arcu.onrender.com](https://todos-arcu.onrender.com)
 
 ---
 
