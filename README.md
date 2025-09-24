@@ -35,6 +35,10 @@
 
 ### 📌 Featured Projects
 
+#### 🎯 [Lakshya](https://github.com/meetbatra/lakshya)  
+> An AI-powered career guidance platform helping students make informed decisions through personalized assessments, course recommendations, and comprehensive educational resource discovery.
+> > 🔗 Live Demo: [lakshya-six.vercel.app](https://lakshya-six.vercel.app)
+
 #### 🎯 [Interview Buddy](https://github.com/meetbatra/interview-buddy)  
 > An AI-powered interview preparation platform that simulates realistic job interviews using Google Gemini AI, Deepgram speech recognition, and Murf TTS. Features resume analysis, personalized questions, real-time transcription, and comprehensive performance analytics.
 > > 🔗 Live Demo: [interviewbuddy-seven.vercel.app](https://interviewbuddy-seven.vercel.app)
