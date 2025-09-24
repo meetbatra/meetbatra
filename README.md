@@ -10,7 +10,7 @@
 - 🛠️ I love building web apps, solving real-world problems, and optimizing backend systems.  
 - 🎯 Interested in full-stack development, system design, and performance tuning.
 - 📫 Reach me at: **meetbatra56@gmail.com**  
-- 🌍 Portfolio: [https://github.com/meetbatra](https://github.com/meetbatra)  
+- 🌍 Portfolio: [https://meetbatra.me](https://meetbatra.me)  
 
 ---
 
