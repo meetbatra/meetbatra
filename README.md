@@ -38,20 +38,16 @@ I ship AI‑powered web apps end‑to‑end – from sketch → code → product
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,aws" alt="backend" />
 
-### AI, Tools & DX
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="tools" />
-
 </div>
 
 - React, Next.js 16, Vite, Tailwind CSS, shadcn/ui  
 - Node.js, Express.js, REST APIs, Convex (DB + functions), MongoDB, AWS (S3 + basics)  
 - Google Gemini, OpenAI‑compatible APIs, Murf (TTS), Deepgram (STT), Azure Speech Services  
-- Mapbox, webhooks, OAuth, OpenClaw for automation/agents
+- Mapbox, webhooks, OAuth
 
 ---
 
-## 🏗️ Selected Projects
+## 🏗️ Featured Projects
 
 ### 🧠 Sona — AI‑Powered Code Workspace
 
@@ -71,20 +67,6 @@ Speakly helps users write, practice, and refine speeches with real‑time pronun
 
 **Repo:** [meetbatra/interview-buddy](https://github.com/meetbatra/interview-buddy) · **Live:** [interviewbuddy-seven.vercel.app](https://interviewbuddy-seven.vercel.app)  
 An AI‑powered interview prep tool that simulates realistic interviews. It reads your resume, generates personalized questions with **Gemini**, handles speech via **Deepgram (STT)** and **Murf (TTS)**, and gives structured feedback with transcripts and performance insights.
-
----
-
-### 🎯 Lakshya — Career Guidance Platform
-
-**Repo:** [meetbatra/lakshya](https://github.com/meetbatra/lakshya) · **Live:** [lakshya-six.vercel.app](https://lakshya-six.vercel.app)  
-AI‑backed career guidance for students with personalized assessments, course recommendations, and curated resources to help pick the right path.
-
----
-
-### 📊 YC Directory — Startup Pitch Hub
-
-**Repo:** [meetbatra/yc-directory](https://github.com/meetbatra/yc-directory) · **Live:** [yc-directory-tau-black.vercel.app](https://yc-directory-tau-black.vercel.app)  
-A Next.js‑based directory where founders can publish startup pitches, explore others, and discover ideas. Uses markdown‑powered pitches, GitHub OAuth, and Sanity CMS.
 
 ---
 
