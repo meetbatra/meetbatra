@@ -1,66 +1,115 @@
-<h1 align="center">Hi 👋, I'm Meet Batra</h1>
-<h3 align="center">Full‑stack Developer · AI‑First Apps · Clean API Crafter</h3>
+<div align="center">
+
+# Hey, I'm Meet 👋
+
+**Full‑stack Developer · AI‑First Builder · TypeScript Enjoyer**  
+I ship AI‑powered web apps end‑to‑end – from sketch → code → production.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-meetbatra.me-000000?style=for-the-badge&logo=vercel)](https://meetbatra.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meet%20Batra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meet-batra-25612b260)
+[![Gmail](https://img.shields.io/badge/Email-meetbatra56%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meetbatra56@gmail.com)
+
+</div>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 - 🎓 B.Tech ECE @ Bhagwan Parshuram Institute of Technology  
 - 📚 BS in Data Science @ IIT Madras  
-- 🧠 I build AI‑powered, production‑style web apps — from idea to deployment.  
-- 🔭 Currently exploring: AI agents, code workspaces, and speech/voice interfaces.  
-- 📫 Reach me at: **meetbatra56@gmail.com**  
-- 🌍 Portfolio: [https://meetbatra.me](https://meetbatra.me)
+- 🧠 I like building **AI‑assisted products** (agents, voice, code tools) that feel like real apps, not demos.  
+- 💡 Comfortable jumping across **frontend, backend, infra, and AI APIs**.
 
 ---
 
-### 🚀 Tech Stack (What I Actually Use Now)
+## ⚙️ Tech Stack
 
-**Languages**  
-JavaScript · TypeScript · Python · Java
+### Core
 
-**Frontend**  
-React · Next.js 16 · Vite · Tailwind CSS · shadcn/ui · HTML · CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java" alt="languages" />
+</p>
 
-**State & Data**  
-Zustand · Redux · Convex (DB + functions) · MongoDB
+### Web & Frontend
 
-**Backend & APIs**  
-Node.js · Express.js · REST APIs · Webhooks · OAuth
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" alt="frontend" />
+</p>
 
-**AI & Cloud**  
-Google Gemini · OpenAI‑compatible models · Murf (TTS) · Deepgram (STT) · Azure Speech Services · Mapbox · AWS S3 · Vercel · Render
+- React, Next.js 16, Vite  
+- Tailwind CSS, shadcn/ui  
+- State: Zustand, Redux
 
-**Tooling**  
-Git · GitHub · Postman · VS Code · OpenClaw (automation / agents)
+### Backend, Data & Infra
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,aws,vercel" alt="backend" />
+</p>
 
-### 📌 Featured Projects
+- Node.js, Express.js, REST APIs  
+- Convex (DB + functions), MongoDB  
+- AWS S3, Vercel, Render
 
-#### 🧠 [Sona](https://github.com/meetbatra/sona) · [sona.codes](https://sona.codes)
-AI‑powered, browser‑based code workspace for real GitHub repos. Spin up projects from natural‑language prompts or import existing repos, then collaborate with an AI agent to scaffold, edit, and iterate on code. Built with Next.js 16, Convex, Clerk, Inngest, and a CodeMirror 6 editor.
+### AI & Developer Tools
 
-#### 🗣️ [Speakly](https://github.com/meetbatra/speakly) · [speakly-two.vercel.app](https://speakly-two.vercel.app)
-AI‑driven platform that helps users write, practice, and refine speeches with real‑time pronunciation feedback. Uses Gemini AI for content, Azure Speech Services for analysis, and Murf AI for lifelike voiceovers.
-
-#### 🤖 [Interview Buddy](https://github.com/meetbatra/interview-buddy) · [interviewbuddy-seven.vercel.app](https://interviewbuddy-seven.vercel.app)
-AI‑powered interview preparation platform that simulates realistic interviews using Gemini, Deepgram STT, and Murf TTS. Supports resume upload, personalized questions, live transcription, and performance analytics.
-
-#### 🎯 [Lakshya](https://github.com/meetbatra/lakshya) · [lakshya-six.vercel.app](https://lakshya-six.vercel.app)
-AI‑powered career guidance platform for students, combining personalized assessments, course recommendations, and curated resources to help with long‑term education and career decisions.
-
-#### 📊 [YC Directory](https://github.com/meetbatra/yc-directory) · [yc-directory-tau-black.vercel.app](https://yc-directory-tau-black.vercel.app)
-A modern startup pitch directory built with Next.js, where founders can publish startup pages, browse others, and discover ideas. Uses markdown‑powered pitches, GitHub OAuth, and Sanity CMS.
-
-#### 🌍 [ExploreHaven](https://github.com/meetbatra/ExploreHaven) · [explorehaven.onrender.com](https://explorehaven.onrender.com)
-Backend‑heavy adventure travel platform built with Node.js, Express.js, and MongoDB to explore destinations and discover unique travel experiences.
+- Google Gemini, OpenAI‑compatible APIs  
+- Murf (TTS), Deepgram (STT), Azure Speech Services  
+- Mapbox, webhooks, OAuth  
+- Git, GitHub, Postman, VS Code  
+- OpenClaw for automation/agents
 
 ---
 
-### 🔗 Let's Connect
+## 🏗️ Selected Projects
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meet-batra-25612b260)  
-[![Gmail](https://img.shields.io/badge/-meetbatra56@gmail.com-black?style=flat-square&logo=gmail&logoColor=white)](mailto:meetbatra56@gmail.com)
+### 🧠 Sona — AI‑Powered Code Workspace
+
+**Repo:** [meetbatra/sona](https://github.com/meetbatra/sona) · **Live:** [sona.codes](https://sona.codes)  
+Sona is a browser‑based, AI‑powered code workspace for real GitHub repos. You can spin up projects from a natural language prompt or import an existing repo, then work with an AI agent that scaffolds, edits, and iterates on the code. Built with **Next.js 16**, **Convex**, **Clerk**, **Inngest**, and a **CodeMirror 6** editor.
 
 ---
+
+### 🗣️ Speakly — AI Speech Practice
+
+**Repo:** [meetbatra/speakly](https://github.com/meetbatra/speakly) · **Live:** [speakly-two.vercel.app](https://speakly-two.vercel.app)  
+Speakly helps users write, practice, and refine speeches with real‑time pronunciation feedback. It uses **Gemini** to draft and refine content, **Azure Speech Services** to analyze delivery, and **Murf AI** to generate natural voiceovers so users can hear a polished version of their speech.
+
+---
+
+### 🤖 Interview Buddy — Mock Interview Agent
+
+**Repo:** [meetbatra/interview-buddy](https://github.com/meetbatra/interview-buddy) · **Live:** [interviewbuddy-seven.vercel.app](https://interviewbuddy-seven.vercel.app)  
+An AI‑powered interview prep tool that simulates realistic interviews. It reads your resume, generates personalized questions with **Gemini**, handles speech via **Deepgram (STT)** and **Murf (TTS)**, and gives structured feedback with transcripts and performance insights.
+
+---
+
+### 🎯 Lakshya — Career Guidance Platform
+
+**Repo:** [meetbatra/lakshya](https://github.com/meetbatra/lakshya) · **Live:** [lakshya-six.vercel.app](https://lakshya-six.vercel.app)  
+AI‑backed career guidance for students with personalized assessments, course recommendations, and curated resources to help pick the right path.
+
+---
+
+### 📊 YC Directory — Startup Pitch Hub
+
+**Repo:** [meetbatra/yc-directory](https://github.com/meetbatra/yc-directory) · **Live:** [yc-directory-tau-black.vercel.app](https://yc-directory-tau-black.vercel.app)  
+A Next.js‑based directory where founders can publish startup pitches, explore others, and discover ideas. Uses markdown‑powered pitches, GitHub OAuth, and Sanity CMS.
+
+---
+
+### 🌍 ExploreHaven — Adventure Travel Platform
+
+**Repo:** [meetbatra/ExploreHaven](https://github.com/meetbatra/ExploreHaven) · **Live:** [explorehaven.onrender.com](https://explorehaven.onrender.com)  
+Backend‑heavy travel platform built with Node.js, Express.js, and MongoDB to explore destinations and discover unique experiences.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meetbatra&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+---
+
+If you like my work or want to collaborate on AI‑heavy products, feel free to reach out or open an issue/PR on any repo.
