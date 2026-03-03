@@ -40,22 +40,22 @@ I ship AI‑powered web apps end‑to‑end – from sketch → code → product
 - Tailwind CSS, shadcn/ui  
 - State: Zustand, Redux
 
-### Backend, Data & Infra
+### Backend & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,aws,vercel" alt="backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,aws" alt="backend" />
 </p>
 
 - Node.js, Express.js, REST APIs  
 - Convex (DB + functions), MongoDB  
-- AWS S3, Vercel, Render
+- AWS (S3 + basic infra)
 
-### AI & Developer Tools
+### AI & Dev
 
 - Google Gemini, OpenAI‑compatible APIs  
 - Murf (TTS), Deepgram (STT), Azure Speech Services  
 - Mapbox, webhooks, OAuth  
-- Git, GitHub, Postman, VS Code  
+- Git, GitHub  
 - OpenClaw for automation/agents
 
 ---
@@ -107,7 +107,7 @@ Backend‑heavy travel platform built with Node.js, Express.js, and MongoDB to e
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meetbatra&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meetbatra&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" />
 </p>
 
 ---
