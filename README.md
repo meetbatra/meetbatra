@@ -24,39 +24,30 @@ I ship AI‑powered web apps end‑to‑end – from sketch → code → product
 
 ## ⚙️ Tech Stack
 
-### Core
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,java" alt="languages" />
-</p>
+### Languages & Core
+
+<img src="https://skillicons.dev/icons?i=ts,js,py,java" alt="languages" />
 
 ### Web & Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" alt="frontend" />
-</p>
-
-- React, Next.js 16, Vite  
-- Tailwind CSS, shadcn/ui  
-- State: Zustand, Redux
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css" alt="frontend" />
 
 ### Backend & Data
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,aws" alt="backend" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,aws" alt="backend" />
 
-- Node.js, Express.js, REST APIs  
-- Convex (DB + functions), MongoDB  
-- AWS (S3 + basic infra)
+### AI, Tools & DX
 
-### AI & Dev
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="tools" />
 
-- Google Gemini, OpenAI‑compatible APIs  
-- Murf (TTS), Deepgram (STT), Azure Speech Services  
-- Mapbox, webhooks, OAuth  
-- Git, GitHub  
-- OpenClaw for automation/agents
+</div>
+
+- React, Next.js 16, Vite, Tailwind CSS, shadcn/ui  
+- Node.js, Express.js, REST APIs, Convex (DB + functions), MongoDB, AWS (S3 + basics)  
+- Google Gemini, OpenAI‑compatible APIs, Murf (TTS), Deepgram (STT), Azure Speech Services  
+- Mapbox, webhooks, OAuth, OpenClaw for automation/agents
 
 ---
 
@@ -106,9 +97,11 @@ Backend‑heavy travel platform built with Node.js, Express.js, and MongoDB to e
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meetbatra&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=meetbatra&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" />
+
+</div>
 
 ---
 
